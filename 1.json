@@ -1,0 +1,16 @@
+{
+  "data": {
+    "company": "RAGA TEX INDIA PRIVATE LIMITED",
+    "employee": "FW00078",
+    "start_date": "2025-11-11",
+    "end_date": "2025-11-11",
+    "time_logs": [
+      {
+        "activity_type": "Working Time",
+        "from_time": "2025-11-11 00:00:00",
+        "to_time": "2025-11-11 08:45:00",
+        "hours": 8.75
+      }
+    ]
+  }
+}
